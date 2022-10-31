@@ -1,168 +1,173 @@
-# BrodeuseNum_2spi
+# Embroidery machine sp33d
 
-**Ou comment utiliser plus ou moins en autonomie la brodeuse numérique.**
+**On how to use with almost full autonomy the embroidery machine.**
 
-Pré-requis : être à l'atelier numérique.
+Prerequisite : being at the digital workshop.
 
-Le tissu : moins de 1mm d'épaisseur, attention si élastique ou trop fin.
+Fabrics you can use : less than 1mm of thickness, be careful if the fabric is elastic or too thin.
 
-## 1. Placer le tissu sur le cadre
+## 1. Place the fabric on the frame
 
-Prendre la taille de cadre adaptée au motif choisi, le cadre par défaut est celui qui permet de broder en 10*10cm, et desserrer la vis.
+Take the adequat-sized frame in relation to the size of your pattern, and loosen the screw.
+The default frame is the 10*10cm one.
 
 ![Premier cadre'](./images/img0_1.jpg)
 
-Mettre le tissu dessus.
+Place the fabric on top.
 
 ![Premier cadre'](./images/img0_2.jpg)
 
-Poser par dessus la grande partie du cadre, et faire en sorte que le tissu se coince le plus droit et tendu possible en tirant sur la partie extérieur du tissu doucement.
+Place on top the largest part of the frame.
+Make sure the fabric get stuck in the most straight and tight way possible, by pulling the outside parts carefully.
 
 ![Premier cadre'](./images/img0_3.jpg)
 ![Premier cadre'](./images/img0_4.jpg)
 
-Faire en sorte que les deux cadres soient bien calés l'un contre l'autre pour que le tissu soit bien tendu sur le dessous de la grande partie du cadre.
+Make sure both parts of the frame are well aligned and pressed against each other, so the fabric is tight on the bottom part of the frame.
 
 ![Premier cadre'](./images/img0_5.jpg)
 ![Premier cadre'](./images/img0_6.jpg)
 
-Resserrer la vis en gardant le tissu tendu au fur et à mesure.
+Tighten the screw while keeping the fabric tight.
 
 ![Premier cadre'](./images/img0_7.jpg)
 
-## 3. Passer le fil
+## 2. Thread the needle
 
-**Attention : la machine doit être éteinte !**
+**Careful : the machine must be turned off !**
 
-Mettre la bobine sur le premier bâton, et passer le fil dans le trou 1.
+Put the bobbin on the first stick, and pass the thread through the hole 1.
 
 ![passage du fil dans le premier trou'](./images/img1_1.jpg)
 
-Passer ensuite le fil dans le trou 2, sur le dessus de la machine, et le faire passer dans le petit angle à coté de la petite molette
+Then pass the thread through the hole 2, on the top of the machine, and pass it in the little angle next the small wheel.
 
 ![passage du fil dans le second trou'](./images/img1_2.jpg)
 
-En suivant le schéma, faire passer le fil autour de la molette de tension du fil, dans le sens des aiguilles d'une montre.
+Following the diagram, pass the thread clockwise around the wheel controlling the thread tension.
 
 ![passage du fil dans la molette'](./images/img1_3.jpg)
 
-Passer le fil sous le morceau en métal de la seconde petite molette.
+Pass the thread under the metal piece of the second small wheel.
 
 ![passage du fil dans la dernière molette'](./images/img1_4.jpg)
 
-Descendre le fil le long de la fente de droite, passer sous la partie 4 avec la flèche, et remonter dans la fente de gauche.
+Lower the thread along the right slit, pass it under the 4 part with the arrow, and raise it through the left slit.
 
 ![passage du fil dans les fentes'](./images/img1_5.jpg)
 
-Passer le fil de droite à gauche dans le trou 5, et redescendre la fente de gauche.
+Pass the thread from right to left in the hole 5, and lower it through the left slit.
 
 ![passage du fil dans le trou devant'](./images/img1_6.jpg)
 
-Passer le fil dans le trou 6 sur l'avant de la machine.
+Pass the thread through the hole 6 on the front of the machine.
 
 ![passage du fil dans le dernier trou'](./images/img1_7.jpg)
 
-Faire passer le fil dans le petit bras en métal à droite de l'aiguille, en tendant le fil le long de l'aiguille et en utilisant le petit outil pour le pousser derrière le bras.
+Push the thread behind the small metal piece on the right of the needle, by pulling the thread along the needle et pushing it with the small tool.
 
 ![passage du fil à coté de l'aiguille'](./images/img1_8.jpg)
 
-**Ici on allume la machine**
+**At this point, turn the machine on**
 
-Pour faire passer le fil dans le chat de l'aiguille, appuyer sur le bouton `Passage du fil` tout à droite sur l'interface de la machine.
+To thread the needle, press the `Threading the needle` button on the bottom right corner on the machine.
 
 ![passage du fil dans l'aiguille'](./images/img1_10.jpg)
 
-Deux petits crochets se calent autour l'aiguille, il faut tenir le fil tendu sous les deux en rappuyant sur le bouton pour que les crochets viennent tirer le fil et passer le fil.
+Two small hooks appaears on both side of the needle.
+You must pull the thread under both hooks and press the button again for the hooks to pull the thread.
 
 ![passage du fil dans l'aiguille'](./images/img1_9.jpg)
 
-Si un de ses étapes a été oublié ou fait dans le mauvais sens, le fil peux être trop ou pas assez tendu, ou se casser.
+If one of these steps has been forgotten or done in the wrong way, the thread can be too tight or not enought, or break.
 
-Pour changer de couleurs le fil, le plus simple est de sortir le fil du chat de l'aiguille, puis de couper en sortie de la bobine, nouer le fil qui passe dans la machine au fil de la nouvelle bobine, et tirer sur le fil pour le faire passer.
+To change the color of the thread, the easiest way is to unthread the needle, then cut the thread between hole 1 and 2.
+Then, place a new bobbin, pass its thread through hole 1 and tie it to the thread out of the machine before hole 2.
+Finally, just pull slowly the thread after hole 6 until the knot is through.
 
 <!-- photo !!-->
 
-## 4. Mettre le cadre dans la machine
+## 4. Placing the frame on the machine
 
-Placer le cadre avec la partie tendue du tissu sur le dessous.
+Place the frame with the tight part of the fabric on top.
 
 ![Premier cadre'](./images/img0_8.jpg)
 
-Faire glisser les bras du cadre sous les parties en métal des bras de la machine.
+Slide the arms of the frame underneath the metal pieces of the arms of the machine.
 
 ![Premier cadre'](./images/img0_9.jpg)
 
-Pousser le cadre jusqu'à ce que les deux cotés soient enclenchés et que les boutons en métal sur la machine soient dans les trous des bras du cadre.
+Push the frame until both side are interlocked and until the metal buttons of the machine have clicked in the holes of the arms of the frame.
 
 ![Premier cadre'](./images/img0_11.jpg)
 ![Premier cadre'](./images/img0_13.jpg)
 
-## 5. Ajouter un motif en USB
+## 5. Adding a pattern via USB
 
-**Après avoir créé le motif en .pes sur le logiciel PE Design**
+**After creating a .pes pattern**
 
-Placer la clef USB dans la machine, sur le coté de l'interface.
+Put the USB key in the machine, on the side of the interface.
 
 ![Premier cadre'](./images/img0_14.jpg)
 
-Entrer dans le menu USB.
+Enter the USB menu.
 
 ![Premier cadre'](./images/img0_15.jpg)
 
-Sélectionner le motif à imprimer.
+Select the pattern to embroider.
 
 ![Premier cadre'](./images/img0_16.jpg)
 
-Cliquer sur `Régler` pour choisir la taille et la position.
+Click `Régler` to choose size and position.
 
 ![Premier cadre'](./images/img0_17.jpg)
 
-Vérifier que le motif rentre dans le cadre en pointillé, le redimensionner et le déplacer avec les boutons si besoin, puis cliquer sur `Broder`.
+Make sure the pattern fit the dotted lines, re-size it and/or move it if needed, then click `Broder`.
 
 ![Premier cadre'](./images/img0_18.jpg)
 
-## 6. Lancer la broderie
+## 6. Start the embroidery
 
-Appuyer sur le bouton de verrouillage sur l'écran (rouge = verrouillé).
-
-<!--//photo-->
-
-Appuyer sur le bouton ⬆️ pour lancer la machine.
+Press the locking button on the screen (if red = the machine is locked).
 
 <!--//photo-->
 
-Pour arrêter la broderie en cours, rappuyer sur le bouton ⬆️. 
+Press the up arrow button ⬆️ to start the embroidery.
 
-# Si besoin
+<!--//photo-->
 
-## A. Créer un motif .pes avec Inkscape et Ink/Stitch
+To stop an ongoing embroidery, press the up arrow button ⬆️ again.
 
-Installer [Inkscape](https://inkscape.org) et l'extension [Ink/Stitch](https://inkstitch.org/fr/).
+# If necessary :
 
-Ouvrir l'image (png, jpeg, svg) avec Inkscape.
+## A. Creating a .pes pattern with Inkscape and Ink/Stitch
 
-Si l'image n'est pas un svg, passez par l'étape `Chemin` > `Vectoriser un objet matriciel`.
+Install [Inkscape](https://inkscape.org) and the [Ink/Stitch](https://inkstitch.org/fr/) extension.
+
+Open your image (png, jpeg, svg) with Inkscape.
+
+If the image isn't a svg, you can do `Chemin` > `Vectoriser un objet matriciel` to turn it into a svg.
 
 ![Premier cadre'](./images/img3_1.png)
 
-Cliquer `Appliquer` dans la fenêtre qui s'ouvre, puis ne garder que la forme vectorisée (supprimer l'image en dessous).
+Click `Appliquer` in the window of the right, then only keep the svg by suppressing the image underneath.
 
 ![Premier cadre'](./images/img3_2.png)
 
-Sélectionner la forme vectorisée et aller dans `Extensions` > `Ink/Stitch` > `Paramètres`.
+Select the image and open `Extensions` > `Ink/Stitch` > `Paramètres`.
 
 ![Premier cadre'](./images/img3_3.png)
 
-Modifier les réglages si besoin, et cliquer sur `Apply and quit`.
+Modify the default settings if needed, and click `Apply and quit`.
 
 ![Premier cadre'](./images/img3_4.png)
 
-Pour exporter en fichier .pes, simplement enregistrer le fichier.
+To export as a .pes, save the image.
 
 ![Premier cadre'](./images/img3_5.png)
 ![Premier cadre'](./images/img3_6.png)
 
-Si besoin, le repasser par PE Design pour adapter la taille.
+If needed you can open your pattern in PE Design to adapt the size to the canvas size of the machine.
 
 <!--## B. Créer un motif .pes avec le logiciel PE Design
 
@@ -196,40 +201,41 @@ Enregistrer en format .pes.
 ![Premier cadre'](./images/Capture10.png) -->
 
 
-## B. Placer la canette
+## B. Placing the spool
 
-**Attention : la machine doit être éteinte !**
+**Careful : the machine must be turned off !**
 
-Placer la canette avec le fil qui tourne dans le sens horaire dans le recepteur à canette.
-
-<!--//photo-->
-
-Caler la canette jusqu'au clic dans l'emplacement, et refermer.
+Place the spool with the thread clockwise in the spool container.
 
 <!--//photo-->
 
+Wedge the spool in its spot until you hear a click, and close the machine.
 
-## C. Tendre ou détendre le fil du dessus
+<!--//photo-->
 
-Le fil du dessus est trop lâche si la broderie a l'air trop lâche, ou si il boucle et fait des noeuds en début de broderie (les boucles s'emmêlent > les noeuds cassent le fil > la brodeuse s'arrête)
-Il est trop tendu si on voit trop le fil du dessous sur la broderie, ou il se casse pendant la broderie (la brodeuse s'arrête).
 
-On peux tendre ou détendre le fil en tournant la petite molette en haut au dessus de la machine ainsi que la grosse molette de tension du fil juste en dessous de la petite molette en question.
+## C. Tighten ou loosen the top thread
 
-Tendre le fil : sens des aiguilles d'une montre :
+The top thread is too loose if the embroidery looks loose, or if the thread does loops and curls and knots during the embroidery process (the loops get tangled > the knots breaks the thread > the machine stops).
+
+Its too tight if you can see too much of the spool thread on top of the embroidery, or if it breaks during the embroidery process.
+
+You can tighten or loosen the thread by turning both the small top wheel on top of the machine or the big wheel just underneath it.
+
+To tighten the thread : clockwise :
 
 ![Premier cadre'](./images/img2_1.jpg)
 
-Détendre le fil : sens contraire des aiguilles d'une montre :
+To loosen the thread : anticlockwise :
 
 ![Premier cadre'](./images/img2_2.jpg)
 
 <!--//photo de broderies foirées-->
 
-# Pour aller + loin
+# To go further
 
-Le [manuel de la machine Brother de l'atelier](https://download.brother.com/welcome/doch100509/vr_dom01eu_fr.pdf).
+The [Brother machine of the workshop instruction manual](https://download.brother.com/welcome/doch100509/vr_dom01eu_fr.pdf).
 
-Liste de [tutoriel de broderie machine](https://edutechwiki.unige.ch/fr/Catégorie:Guide_de_tutoriels_de_broderie_machine).
+List of [embroidery machine tutorials](https://edutechwiki.unige.ch/fr/Catégorie:Guide_de_tutoriels_de_broderie_machine).
 
-La BD [The Dancing Plague](https://www.selfmadehero.com/books/the-dancing-plague).# EmbroideryMachine_sp33d
+The comic [The Dancing Plague](https://www.selfmadehero.com/books/the-dancing-plague).
