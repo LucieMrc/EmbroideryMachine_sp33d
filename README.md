@@ -32,7 +32,140 @@ Tighten the screw while keeping the fabric tight.
 
 ![Premier cadre'](./images/img0_7.jpg)
 
-## 2. Thread the needle
+## 2. Placing the frame on the machine
+
+Place the frame with the tight part of the fabric on top.
+
+![Premier cadre'](./images/img0_8.jpg)
+
+Slide the arms of the frame underneath the metal pieces of the arms of the machine.
+
+![Premier cadre'](./images/img0_9.jpg)
+
+Push the frame until both side are interlocked and until the metal buttons of the machine have clicked in the holes of the arms of the frame.
+
+![Premier cadre'](./images/img0_11.jpg)
+![Premier cadre'](./images/img0_13.jpg)
+
+## 3. Adding a pattern via USB
+
+**After creating a .pes pattern**
+
+Put the USB key in the machine, on the side of the interface.
+
+![Premier cadre'](./images/img0_14.jpg)
+
+Enter the USB menu.
+
+![Premier cadre'](./images/img0_15.jpg)
+
+Select the pattern to embroider.
+
+![Premier cadre'](./images/img0_16.jpg)
+
+Click `Régler` to choose size and position.
+
+![Premier cadre'](./images/img0_17.jpg)
+
+Make sure the pattern fit the dotted lines, re-size it and/or move it if needed, then click `Broder`.
+
+![Premier cadre'](./images/img0_18.jpg)
+
+## 4. Start the embroidery
+
+Press the locking button on the screen (if red = the machine is locked).
+
+<!--//photo-->
+
+Press the up arrow button ⬆️ to start the embroidery.
+
+<!--//photo-->
+
+To stop an ongoing embroidery, press the up arrow button ⬆️ again.
+
+# If necessary :
+
+## A. Creating a .pes pattern with Inkscape and Ink/Stitch
+
+Install [Inkscape](https://inkscape.org) and the [Ink/Stitch](https://inkstitch.org/fr/) extension.
+
+Open your image (png, jpeg, svg) with Inkscape.
+
+If the image isn't a svg, you can do `Chemin` > `Vectoriser un objet matriciel` to turn it into a svg.
+
+![Premier cadre'](./images/img3_1.png)
+
+Click `Appliquer` in the window of the right, then only keep the svg by suppressing the image underneath.
+
+![Premier cadre'](./images/img3_2.png)
+
+Select the image and open `Extensions` > `Ink/Stitch` > `Paramètres`.
+
+![Premier cadre'](./images/img3_3.png)
+
+Modify the default settings if needed, and click `Apply and quit`.
+
+![Premier cadre'](./images/img3_4.png)
+
+Before exporting, you can preview the embroidery by opening `Extensions` > `Ink/Stitch` > `Visualiser et exporter` > `Simulateur/ Aperçu réaliste`.
+
+![Premier cadre'](./images/img3_10.png)
+
+To export as a .pes, save the image.
+
+![Premier cadre'](./images/img3_5.png)
+![Premier cadre'](./images/img3_6.png)
+
+To adapt the size of the image to the size of the embrodery, you can change the size into cm ou mm:
+
+![Premier cadre'](./images/img3_7.png)
+
+### Creating a pattern with two or more colors:
+
+Import a svg with multiple colors into Inkscape, and start transforming your image through `Chemin` > `Objet en chemin`.
+Then, you can do the same thing than with one color : `Extensions` > `Ink/Stitch` > `Paramètres`, modify the default settings if needed, and click `Apply and quit`, and export in .pes.
+
+![Premier cadre'](./images/homographie.svg)
+*The svg image*
+
+![Premier cadre'](./images/img3_8.png)
+*The embroidery preview in Inkstitch*
+
+![Premier cadre'](./images/img3_9.jpg)
+*The final embroidery, not looking very good because of the quality of the fabric in relation with the stitch of the pattern*
+
+<!--## B. Créer un motif .pes avec le logiciel PE Design
+
+Ouvrir le logiciel PE Design.
+
+![Premier cadre'](./images/Capture1.png)
+
+Aller dans l'onglet `Image` puis cliquer sur `Piqûre automatique` et sélectionner l'image choisie.
+
+![Premier cadre'](./images/Capture2.png)
+
+Rogner le motif si besoin, puis cliquer sur `Suivant` pour lancer le calcul de conversion de l'image en motif de broderie.
+
+![Premier cadre'](./images/Capture4.png)
+
+Après le premier calcul de conversion, on peux changer la sensibilité de la réduction des parasites et de la segmentation pour affiner le rendu. On peux également décider du nombre de couleur max (ici : 2, le tracé et le fond), puis décider de supprimer des couleurs en cliquant dessus dans la partie `Omettre les couleurs des parties`. Ici j'ai supprimé la couleur du fond, qui est barrée.
+
+![Premier cadre'](./images/Capture6.png)
+
+Redimensionner le motif afin qu'il rentre dans le cadre blanc.
+
+![Premier cadre'](./images/Capture7.png)
+![Premier cadre'](./images/Capture8.png)
+
+Pour exporter, cliquer le logo du logiciel en haut à gauche, puis `Enregistrer sous...` .
+
+![Premier cadre'](./images/Capture9.png)
+
+Enregistrer en format .pes.
+
+![Premier cadre'](./images/Capture10.png) -->
+
+## B. Thread the needle
 
 **Careful : the machine must be turned off !**
 
@@ -87,121 +220,7 @@ Finally, just pull slowly the thread after hole 6 until the knot is through.
 
 <!-- photo !!-->
 
-## 4. Placing the frame on the machine
-
-Place the frame with the tight part of the fabric on top.
-
-![Premier cadre'](./images/img0_8.jpg)
-
-Slide the arms of the frame underneath the metal pieces of the arms of the machine.
-
-![Premier cadre'](./images/img0_9.jpg)
-
-Push the frame until both side are interlocked and until the metal buttons of the machine have clicked in the holes of the arms of the frame.
-
-![Premier cadre'](./images/img0_11.jpg)
-![Premier cadre'](./images/img0_13.jpg)
-
-## 5. Adding a pattern via USB
-
-**After creating a .pes pattern**
-
-Put the USB key in the machine, on the side of the interface.
-
-![Premier cadre'](./images/img0_14.jpg)
-
-Enter the USB menu.
-
-![Premier cadre'](./images/img0_15.jpg)
-
-Select the pattern to embroider.
-
-![Premier cadre'](./images/img0_16.jpg)
-
-Click `Régler` to choose size and position.
-
-![Premier cadre'](./images/img0_17.jpg)
-
-Make sure the pattern fit the dotted lines, re-size it and/or move it if needed, then click `Broder`.
-
-![Premier cadre'](./images/img0_18.jpg)
-
-## 6. Start the embroidery
-
-Press the locking button on the screen (if red = the machine is locked).
-
-<!--//photo-->
-
-Press the up arrow button ⬆️ to start the embroidery.
-
-<!--//photo-->
-
-To stop an ongoing embroidery, press the up arrow button ⬆️ again.
-
-# If necessary :
-
-## A. Creating a .pes pattern with Inkscape and Ink/Stitch
-
-Install [Inkscape](https://inkscape.org) and the [Ink/Stitch](https://inkstitch.org/fr/) extension.
-
-Open your image (png, jpeg, svg) with Inkscape.
-
-If the image isn't a svg, you can do `Chemin` > `Vectoriser un objet matriciel` to turn it into a svg.
-
-![Premier cadre'](./images/img3_1.png)
-
-Click `Appliquer` in the window of the right, then only keep the svg by suppressing the image underneath.
-
-![Premier cadre'](./images/img3_2.png)
-
-Select the image and open `Extensions` > `Ink/Stitch` > `Paramètres`.
-
-![Premier cadre'](./images/img3_3.png)
-
-Modify the default settings if needed, and click `Apply and quit`.
-
-![Premier cadre'](./images/img3_4.png)
-
-To export as a .pes, save the image.
-
-![Premier cadre'](./images/img3_5.png)
-![Premier cadre'](./images/img3_6.png)
-
-If needed you can open your pattern in PE Design to adapt the size to the canvas size of the machine.
-
-<!--## B. Créer un motif .pes avec le logiciel PE Design
-
-Ouvrir le logiciel PE Design.
-
-![Premier cadre'](./images/Capture1.png)
-
-Aller dans l'onglet `Image` puis cliquer sur `Piqûre automatique` et sélectionner l'image choisie.
-
-![Premier cadre'](./images/Capture2.png)
-
-Rogner le motif si besoin, puis cliquer sur `Suivant` pour lancer le calcul de conversion de l'image en motif de broderie.
-
-![Premier cadre'](./images/Capture4.png)
-
-Après le premier calcul de conversion, on peux changer la sensibilité de la réduction des parasites et de la segmentation pour affiner le rendu. On peux également décider du nombre de couleur max (ici : 2, le tracé et le fond), puis décider de supprimer des couleurs en cliquant dessus dans la partie `Omettre les couleurs des parties`. Ici j'ai supprimé la couleur du fond, qui est barrée.
-
-![Premier cadre'](./images/Capture6.png)
-
-Redimensionner le motif afin qu'il rentre dans le cadre blanc.
-
-![Premier cadre'](./images/Capture7.png)
-![Premier cadre'](./images/Capture8.png)
-
-Pour exporter, cliquer le logo du logiciel en haut à gauche, puis `Enregistrer sous...` .
-
-![Premier cadre'](./images/Capture9.png)
-
-Enregistrer en format .pes.
-
-![Premier cadre'](./images/Capture10.png) -->
-
-
-## B. Placing the spool
+## C. Placing the spool
 
 **Careful : the machine must be turned off !**
 
@@ -214,7 +233,7 @@ Wedge the spool in its spot until you hear a click, and close the machine.
 <!--//photo-->
 
 
-## C. Tighten ou loosen the top thread
+## D. Tighten ou loosen the top thread
 
 The top thread is too loose if the embroidery looks loose, or if the thread does loops and curls and knots during the embroidery process (the loops get tangled > the knots breaks the thread > the machine stops).
 
