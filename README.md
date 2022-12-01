@@ -67,7 +67,7 @@ Click `Régler` to choose size and position.
 
 ![Premier cadre'](./images/img0_17.jpg)
 
-Make sure the pattern fit the dotted lines, re-size it and/or move it if needed, then click `Broder`.
+Make sure the pattern fit the dotted lines, re-size it with the first button on the left with the square, and/or move it with the arrows butttons on the right if needed, then click `Broder`.
 
 ![Premier cadre'](./images/img0_18.jpg)
 
