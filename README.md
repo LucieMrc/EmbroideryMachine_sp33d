@@ -230,20 +230,74 @@ Finally, just pull slowly the thread after hole 6 until the knot is through.
 
 <!-- photo !!-->
 
-## C. Placing the spool
+## C. Filling the bobbin
 
-**Careful : the machine must be turned off !**
+Get the bobbin from the little trap underneath the needle.
 
-Place the spool with the thread clockwise in the spool container.
+![find the bobbin](./images/img3_0.jpg)
 
-<!--//photo-->
+Take it out by lifting the hinge part.
 
-Wedge the spool in its spot until you hear a click, and close the machine.
+![lift the hinge](./images/img3_01.jpg)
 
-<!--//photo-->
+Take the bobbin out of its container.
+
+![take the bobbin out](./images/img3_02.jpg)
+
+Choose the thread for the bobbin (here : lila), and pass it through the numbers that are in circles.
+
+![pass the thread](./images/img3_1.jpg)
+
+![pass the thread](./images/img3_2.jpg)
+
+![pass the thread](./images/img3_3.jpg)
+
+Make some turns with the thread around the empty bobbin, then place the bobbin on the axis on the side of the machine.
+
+![the bobbin with some turns of thread](./images/img3_4.jpg)
+![the axis](./images/img3_5.jpg)
+
+Block the thread on the small slit on the side.
+
+![the thread in the slit](./images/img3_6.jpg)
+
+Pull the little bent part on the bobbin.
+
+![the bent part pulled](./images/img3_7.jpg)
+
+On the screen of the machine, the bobbin menu appear.
+Click on "Démarrer". The axis will turn until the bobbin is full.
+
+![the screen of the machine](./images/img3_8.jpg)
+
+Pull back the bent part in its default position, cut the thread and take out the bobbin from the axis. You can place the bobbin back in the machine.
+
+## D. Placing the bobbin
+
+**Warning : it is better if the machine is turned off !**
+
+Place the bobbin with the thread going clockwise in the bobbin container.
+
+Pull 5cm of the thread out, and slide it in the little slit on the side of the container.
+
+![the thread in the slit](./images/img4_1.jpg)
+
+Slide the thread on the side and make it go out the hole along the slit.
+
+![the thread out of the hole](./images/img4_3.jpg)
+
+Placer the container with the bobbin in its place.
+
+![the container in the place](./images/img4_4.jpg)
+
+Push it in place until you hear a click, and close the trap.
+
+![the container in the place](./images/img4_5.jpg)
+
+![the container in the place](./images/img4_6.jpg)
 
 
-## D. Tighten ou loosen the top thread
+## E. Tighten ou loosen the top thread
 
 The top thread is too loose if the embroidery looks loose, or if the thread does loops and curls and knots during the embroidery process (the loops get tangled > the knots breaks the thread > the machine stops).
 
