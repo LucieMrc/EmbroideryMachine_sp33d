@@ -17,18 +17,18 @@ If it's not tangled at all, check that the bobbin still has thread and is well p
 
 ## Content
 * Basic manipulation on the machine
-    * [1. Place the fabric on the frame](#Place-the-fabric-on-the-frame)<br>
-    * [2. Placing the frame on the machine](#Placing-the-frame-on-the-machine)<br>
-    * [3. Add a pattern via USB](#3.-Adding-a-pattern-via-USB)<br>
-    * [4. Start the embroidery](#4.-Start-the-embroidery)<br>
+    * [1. Place the fabric on the frame](#1-place-the-fabric-on-the-frame)<br>
+    * [2. Placing the frame on the machine](#2-placing-the-frame-on-the-machine)<br>
+    * [3. Add a pattern via USB](#3-adding-a-pattern-via-USB)<br>
+    * [4. Start the embroidery](#4-Start-the-embroidery)<br>
 * Using Ink/Stitch
-    * [A. Create a .pes pattern with Inkscape and Ink/Stitch](#A.-Creating-a-.pes-pattern-with-Inkscape-and-Ink/Stitch)<br>
+    * [A. Create a .pes pattern with Inkscape and Ink/Stitch](#A-Creating-a-.pes-pattern-with-Inkscape-and-Ink/Stitch)<br>
 
 * Other manipulations on the machine
-    * [B. Thread the needle](#B.-Thread-the-needle)<br>
-    * [C. Filling the bobbin](#C.-Filling-the-bobbin)<br>
-    * [D. Placing the bobbin](#D.-Placing-the-bobbin)<br>
-    * [E. Tighten or loosen the top thread](#E.-Tighten-or-loosen-the-top-thread)<br>
+    * [B. Thread the needle](#B-Thread-the-needle)<br>
+    * [C. Filling the bobbin](#C-Filling-the-bobbin)<br>
+    * [D. Placing the bobbin](#D-Placing-the-bobbin)<br>
+    * [E. Tighten or loosen the top thread](#E-Tighten-or-loosen-the-top-thread)<br>
 
 * [To go further](#To-go-further)
 
