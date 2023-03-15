@@ -6,6 +6,16 @@ Prerequisite : being at the digital workshop.
 
 Fabrics you can use : less than 1mm of thickness, be careful if the fabric is elastic or too thin.
 
+## Warning
+
+If the machine stops during the embroidery, with an error message asking to check the upper and bobbin thread but the upper thread is fine, please DO NOT RE START THE MACHINE immediatly.
+Lift the frame slightly to check underneath the fabric, and make sure the thread isn't tangled, either with itself or in the bobbin compartment.
+
+If it's tangled, cut as much as possible with the stitch ripper or cissors, or take out every stitches that has knots and restart the embroidery from the last clean part.
+
+If it's not tangled at all, check that the bobbin still has thread and is well placed, and if everything is okay, the machine can be restarted.
+
+
 ## 1. Place the fabric on the frame
 
 Take the adequat-sized frame in relation to the size of your pattern, and loosen the screw.
