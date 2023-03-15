@@ -22,7 +22,7 @@ If it's not tangled at all, check that the bobbin still has thread and is well p
     * [3. Add a pattern via USB](#3-adding-a-pattern-via-USB)<br>
     * [4. Start the embroidery](#4-Start-the-embroidery)<br>
 * Using Ink/Stitch
-    * [A. Create a .pes pattern with Inkscape and Ink/Stitch](#A-Creating-a-.pes-pattern-with-Inkscape-and-Ink/Stitch)<br>
+    * [A. Create a .pes pattern with Inkscape and Ink/Stitch](#A-Creating-a-pes-pattern-with-Inkscape-and-InkStitch)<br>
 
 * Other manipulations on the machine
     * [B. Thread the needle](#B-Thread-the-needle)<br>
