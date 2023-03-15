@@ -15,6 +15,24 @@ If it's tangled, cut as much as possible with the stitch ripper or cissors, or t
 
 If it's not tangled at all, check that the bobbin still has thread and is well placed, and if everything is okay, the machine can be restarted.
 
+## Content
+* Basic manipulation on the machine
+    * [1. Place the fabric on the frame](#1.-Place-the-fabric-on-the-frame)<br>
+    * [2. Placing the frame on the machine](#2.-Placing-the-frame-on-the-machine)<br>
+    * [3. Add a pattern via USB](#3.-Adding-a-pattern-via-USB)<br>
+    * [4. Start the embroidery](#4.-Start-the-embroidery)<br>
+* Using Ink/Stitch
+    * [A. Create a .pes pattern with Inkscape and Ink/Stitch](#A.-Creating-a-.pes-pattern-with-Inkscape-and-Ink/Stitch)<br>
+
+* Other manipulations on the machine
+    * [B. Thread the needle](#B.-Thread-the-needle)<br>
+    * [C. Filling the bobbin](#C.-Filling-the-bobbin)<br>
+    * [D. Placing the bobbin](#D.-Placing-the-bobbin)<br>
+    * [E. Tighten or loosen the top thread](#E.-Tighten-or-loosen-the-top-thread)<br>
+
+* [To go further](#To-go-further)
+
+
 
 ## 1. Place the fabric on the frame
 
@@ -297,7 +315,7 @@ Push it in place until you hear a click, and close the trap.
 ![the container in the place](./images/img4_6.jpg)
 
 
-## E. Tighten ou loosen the top thread
+## E. Tighten or loosen the top thread
 
 The top thread is too loose if the embroidery looks loose, or if the thread does loops and curls and knots during the embroidery process (the loops get tangled > the knots breaks the thread > the machine stops).
 
