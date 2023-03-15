@@ -17,7 +17,7 @@ If it's not tangled at all, check that the bobbin still has thread and is well p
 
 ## Content
 * Basic manipulation on the machine
-    * [1. Place the fabric on the frame](#1.-Place-the-fabric-on-the-frame)<br>
+    * [1. Place the fabric on the frame](#Place-the-fabric-on-the-frame)<br>
     * [2. Placing the frame on the machine](#2.-Placing-the-frame-on-the-machine)<br>
     * [3. Add a pattern via USB](#3.-Adding-a-pattern-via-USB)<br>
     * [4. Start the embroidery](#4.-Start-the-embroidery)<br>
