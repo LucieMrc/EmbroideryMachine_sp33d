@@ -273,7 +273,7 @@ Choose the thread for the bobbin (here : lila), and pass it through the numbers 
 Make some turns with the thread around the empty bobbin, then place the bobbin on the axis on the side of the machine.
 
 ![the bobbin with some turns of thread](./images/img3_4.jpg)
-![the axis](./images/img3_5.jpg)
+![the axis](./images/img3_51.jpg)
 
 Block the thread on the small slit on the side.
 
