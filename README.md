@@ -148,6 +148,8 @@ To adapt the size of the image to the size of the embrodery, you can change the 
 
 ![Premier cadre'](./images/img3_7.png)
 
+![Premier cadre'](./images/capture11.png)
+
 ### Creating a pattern with two or more colors:
 
 Import a svg with multiple colors into Inkscape, and start transforming your image through `Chemin` > `Objet en chemin`.
