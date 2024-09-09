@@ -36,6 +36,8 @@ If it's not tangled at all, check that the bobbin still has thread and is well p
 
 ## 1. Place the fabric on the frame
 
+It is advised to ALWAYS add a stabilizer sheet (tear-away or wash-away) underneath the fabric inside the frame.
+
 Take the adequat-sized frame in relation to the size of your pattern, and loosen the screw.
 The default frame is the 10*10cm one.
 
@@ -203,7 +205,7 @@ Put the bobbin on the first stick, and pass the thread through the hole 1.
 
 ![passage du fil dans le premier trou'](./images/img1_1.jpg)
 
-Then pass the thread through the hole 2, on the top of the machine, and pass it in the little angle next the small wheel.
+Then pass the thread through the hole 2, on the top of the machine, and pass it in both little corners next the small wheel.
 
 ![passage du fil dans le second trou'](./images/img1_2.jpg)
 
